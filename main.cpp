@@ -7,5 +7,6 @@ int main(){
     A a;
     a.a();
     return 0;
+    //papapapappaprapa
     //zupaaaaa
 }
