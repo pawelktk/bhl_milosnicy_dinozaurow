@@ -1,12 +1,10 @@
 #include <iostream>
-#include "test.h"
+#include "data/Data.h"
 
 using namespace std;
 
 int main(){
-    A a;
-    a.a();
+    Data d;
+    d.WypiszMocGrzewcza();
     return 0;
-    //papapapappaprapa
-    //zupaaaaa
 }
