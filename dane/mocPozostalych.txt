@@ -1,0 +1,11 @@
+Dni robocze 0:00-4:59 0,5kW
+Dni robocze 5:00-7:59 3kW
+Dni robocze 8:00-9:59 2kW
+Dni robocze 10:00-15:59 1kW
+Dni robocze 16:00-19:59 2kW
+Dni robocze 20:00-23:59 1kW
+Dni wolne od pracy 0:00-7:59 0,5kW
+Dni wolne od pracy 8:00-11:59 3kW
+Dni wolne od pracy 12:00-16:59 1kW
+Dni wolne od pracy 17:00-23:59 2kW
+Wakacje (nieobecni w domu) 0:00-23:59 0,5kW

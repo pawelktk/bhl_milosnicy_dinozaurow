@@ -1,0 +1,14 @@
+I- III,X-XII Dni robocze 0:00-5:59 1,00zł 0,50zł
+I- III,X-XII Dni robocze 6:00-12:59 2,00zł 2,50zł
+I- III,X-XII Dni robocze 13:00-14:59 1,00zł 1,00zł
+I- III,X-XII Dni robocze 15:00-21:59 2,00zł 2,50zł
+I- III,X-XII Dni robocze 22:00-23:59 1,00zł 0,50zł
+I- III,X-XII Dni wolne 0:00-23:59 1,00zł 0,50zł
+IV-IX Dni robocze 0:00-5:59 1,00zł 0,50zł
+IV-IX Dni robocze 6:00-14:59 2,00zł 2,50zł
+IV-IX Dni robocze 15:00-16:59 1,00zł 1,00zł
+IV-IX Dni robocze 17:00-21:59 2,00zł 2,50zł
+IV-IX Dni robocze 22:00-23:59 1,00zł 0,50zł
+IV-IX Dni wolne 0:00-11:59 1,00zł 0,50zł
+IV-IX Dni wolne 12:00-14:59 0,50zł 0,25zł
+IV-IX Dni wolne 15:00-23:59 1,00zł 0,50zł
