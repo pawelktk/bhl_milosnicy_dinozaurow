@@ -1,14 +1,13 @@
 #include <iostream>
 #include "data/Data.h"
-#include "data/Ogniwa.h"
+#include "DataKalendarzowa.h"
 
 using namespace std;
 
 int main(){
-    //Data d;
+    Data d;
     //d.WypiszMocGrzewcza();
-    Ogniwa s;
-    s.setMoc();
-
+    dataKalendarzowa x(10,4,2021);
+    cout<<x.dow();
     return 0;
 }
